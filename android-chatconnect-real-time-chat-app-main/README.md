@@ -54,7 +54,7 @@ ChatConnect/
 
 ## Author
 
-**Shambhuraj Subhash Khot**  
+**Prashant Ananda Awati**  
 Student, **D Y Patil Agriculture and Technical University, Talsande**  
 Project developed under **Smart-Internz – Android Development with Kotlin (Externship Program)**
 
